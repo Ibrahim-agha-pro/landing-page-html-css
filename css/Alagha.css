@@ -1363,6 +1363,7 @@ width: 4px; */
 .discount .discount-img .content {
   position: relative;
   text-align: center;
+  z-index: 1;
 }
 .discount .discount-img .content h1 {
   margin-top: 120px;
